@@ -52,6 +52,8 @@ Esta é uma planilha inteligente para **controle e acompanhamento de patrimônio
 
 ---
 
+## Contato
+Dúvidas? Envie um e-mail para [eikyabuquerque80@gmail.com](mailto:eikyabuquerque80@gmail.com) ✉️
 
 ## 🪪 Licença
 
